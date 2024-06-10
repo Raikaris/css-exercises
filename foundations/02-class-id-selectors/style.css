@@ -1,4 +1,4 @@
-.odd{
+.odd {
     background-color: #CE4646;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
@@ -9,9 +9,11 @@ font-weight: 36px;
 }
 
 #third {
-
+    font-size: 24px;
 }
 
 #fourth {
-
+    background-color: #64D678;
+    font-size: 24px;
+    font-weight: bold;
 }
