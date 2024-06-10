@@ -4,9 +4,11 @@
 }
 
 .first {
-
+    background-color: #000000;
+    color: #fff;
+    font-weight: bold;
 }
 
 .second {
-
+    background-color: #FFEC33;
 }
